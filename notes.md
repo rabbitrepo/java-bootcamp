@@ -11,3 +11,10 @@ char 'L' | string "Hey!"
 float 
 double | float with double precition
 
+
+
+Mainly uses 4:
+- int
+- double
+- char
+- boolean (c don't have)
